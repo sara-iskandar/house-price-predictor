@@ -44,7 +44,7 @@ Target variable: `SalePrice`
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/house-price-predictor.git
+git clone https://github.com/sara-iskandar/house-price-predictor.git
 cd house-price-predictor
 ```
 
