@@ -74,7 +74,7 @@ jupyter notebook
 ## 📈 Results
 
 - **Best Model:** Random Forest Regressor  
-- **RMSE:** [Insert your calculated RMSE]  
+- **RMSE:** RMSE = 28352.11
 - **Top Features Influencing Price:** `OverallQual`, `GrLivArea`, `GarageCars`, etc.
 
 ---
